@@ -1,2 +1,0 @@
-# scampage
-Scampage / Phising Paypal
